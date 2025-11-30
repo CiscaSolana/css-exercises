@@ -13,3 +13,17 @@
   width: 80px;
   height: 80px;
 }
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+/* avrei potuto usare margin:auto sul container .box, in modo da assegnare tutto lo spazio 
+a disposizione, direttamente al margine (in modo dunque da centrare box)
+
+.box {
+  margin: auto; 
+} */
